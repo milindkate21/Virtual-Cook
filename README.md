@@ -1,9 +1,3 @@
-Group 1
-
-1. Harsh Bhatt
-2. Harsh Darji
-3. Milind Kate
-
 # Virtual-Cook
 
 Food recipe app built using react-native will be a mobile application designed to provide users with a collection of recipes for a variety of dishes.
